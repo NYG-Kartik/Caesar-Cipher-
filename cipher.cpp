@@ -1,8 +1,6 @@
 /*
 Author: Kartik Vanjani
 Course: CSCI-135
-Instructor: Tong Yi
-Assignment: LAB 6C
 Description: This program takes in an input of a string and outputs
 the string generated from the shift that is applied
 */
